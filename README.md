@@ -10,8 +10,3 @@ This project is an AI-based plagiarism detection tool that uses machine learning
 - **CSV Dataset**: The model is trained on a Kaggle dataset with text samples.
 - **Jupyter Notebook**: The project is implemented in Jupyter Notebook for easy exploration and visualization.
 
-## Installation
-
-1. Clone the repository to your local machine:
-   ```bash
-   git clone https://github.com/your-username/plagiarism-checker-ai.git
